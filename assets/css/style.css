@@ -25,6 +25,12 @@ body {
     font-weight: 600;
     text-decoration: #434340;
 }
+.education {
+    line-height: 1.1rem;
+}
+.education .sub-title {
+    font-weight: 600;
+}
 .copyright {
     line-height: 1.5rem;
 }
